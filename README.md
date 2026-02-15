@@ -5,7 +5,8 @@
 ````
 Base Adress = ac_client.exe
 LocalPlayer = ac_client.exe + 0x0017E0A8
-
+EntityList = "ac_client.exe"+0018AC04    ; EC + offsets per 4, 4, 2
+FOV = ac_client.exe+18A7CC ; (Float) 160 recommended
 
 PlayerHealth = 0xEC
 PlayerArmour = 0xF0
