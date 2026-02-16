@@ -10,7 +10,8 @@ GiveAdmin = 0x200  ; 2 = Admin
 PlayerHealth = 0xEC
 PlayerArmour = 0xF0
 PlayerName =  0x204
-Score = 0x476
+PlayerSpeed = 0x74
+TeamScore = 0x476
 
 AngleX = 0x34
 AngleY = 0x38
