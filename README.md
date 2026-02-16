@@ -1,14 +1,12 @@
 **Assault Cube Version  1.3.0.2**
-*With IDA PRO and CE*
-
+```*With IDA PRO and CE*```
 
 ````
 Base Adress = "ac_client.exe"
 LocalPlayer = "ac_client.exe" + 0x0017E0A8
-EntityList = "ac_client.exe"+0x018AC04    ; EC + offsets per 4, 4, 2
-FOV = "ac_client.exe"+18A7CC ; (Float) 160 recommended
-
-GiveAdmin = 0x200   ;  4Bytes 2= Admin
+EntityList = "ac_client.exe"+0x018AC04  ; EC +  0x4, 0x4, 0x2
+FOV = "ac_client.exe"+18A7CC ; 
+GiveAdmin = 0x200  ; 2= Admin
 PlayerHealth = 0xEC
 PlayerArmour = 0xF0
 PlayerName =  0x204
