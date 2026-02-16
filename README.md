@@ -11,6 +11,7 @@ PlayerHealth = 0xEC
 PlayerArmour = 0xF0
 PlayerName =  0x204
 PlayerSpeed = 0x74
+PlayerInfiniteJump = 5D
 TeamScore = 0x476
 
 AngleX = 0x34
