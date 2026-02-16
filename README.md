@@ -2,16 +2,15 @@
 
 ````
 Base Adress = "ac_client.exe"
-LocalPlayer = "ac_client.exe" + 0x0017E0A8
+LocalPlayer = "ac_client.exe" + 0x017E0A8
 EntityList = "ac_client.exe"+0x018AC04  ; EC +  0x4, 0x4, 0x2
-FOV = "ac_client.exe"+18A7CC ; 
+FOV = "ac_client.exe"+18A7CC
+
 GiveAdmin = 0x200  ; 2= Admin
 PlayerHealth = 0xEC
 PlayerArmour = 0xF0
 PlayerName =  0x204
-
 Score = 0x476
-
 
 AngleX = 0x34
 AngleY = 0x38
@@ -31,4 +30,7 @@ FireRate = 0x160
 AssaultRifle
 Ammo = 0x140
 FireRate : 0x164
+
+Knife
+FireRate= 0x14C
 
