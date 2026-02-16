@@ -11,7 +11,7 @@ PlayerHealth = 0xEC
 PlayerArmour = 0xF0
 PlayerName =  0x204
 PlayerSpeed = 0x74
-PlayerInfiniteJump = 5D
+PlayerInfiniteJump = 0x5D
 TeamScore = 0x476
 
 AngleX = 0x34
@@ -27,24 +27,24 @@ FireRate : 0x164
 
 Pistol
 Ammo = 0x12C
-FireRate= 0x150 
+FireRate = 0x150 
 
 Sniper 
 Ammo = 0x13C
 FireRate = 0x160
 
 SMG
-Ammo= 0x138
-FireRate= 15C
+Ammo = 0x138
+FireRate = 0x15C
 
 Shotgun 
 Ammo = 0x134
 FireRate = 0x158
 
 Carbine
-Ammo= 0x130
-FireRate= 0x154
+Ammo = 0x130
+FireRate = 0x154
 
 Knife
-FireRate= 0x14C
+FireRate = 0x14C
 
