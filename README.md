@@ -1,6 +1,4 @@
-**Assault Cube Version  1.3.0.2**
-
-`With IDA PRO and CE`
+**Assault Cube Version  1.3.0.2**  `With IDA PRO and CE`
 
 ````
 Base Adress = "ac_client.exe"
