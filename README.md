@@ -19,6 +19,10 @@ PositonX = 0x2C
 PositionY = 0x28
 PositionZ = 0x30
 
+AssaultRifle
+Ammo = 0x140
+FireRate : 0x164
+
 Pistol
 Ammo = 0x12C
 FireRate= 0x150 
@@ -27,9 +31,17 @@ Sniper
 Ammo = 0x13C
 FireRate = 0x160
 
-AssaultRifle
-Ammo = 0x140
-FireRate : 0x164
+SMG
+Ammo= 0x138
+FireRate= 15C
+
+Shotgun 
+Ammo = 0x134
+FireRate = 0x158
+
+Carbine
+Ammo= 0x130
+FireRate= 0x154
 
 Knife
 FireRate= 0x14C
