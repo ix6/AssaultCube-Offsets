@@ -2,7 +2,7 @@
 
 ````
 Base Adress = "ac_client.exe"
-LocalPlayer = "ac_client.exe" + 0x017E0A8
+LocalPlayer = "ac_client.exe" + 0x018AC00
 EntityList = "ac_client.exe"+0x018AC04  ; EC +  0x4, 0x4, 0x2
 FOV = "ac_client.exe"+18A7CC
 ScopeFOV = ac_client.exe+18A834
