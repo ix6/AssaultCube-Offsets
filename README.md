@@ -13,6 +13,7 @@ PlayerName =  0x204
 PlayerSpeed = 0x74
 PlayerInfiniteJump = 0x5D
 TeamScore = 0x476
+TeamNumber = 0x30C
 
 AngleX = 0x34
 AngleY = 0x38
