@@ -21,6 +21,10 @@ AngleZ= 0x3C
 PositonX = 0x2C
 PositionY = 0x28
 PositionZ = 0x30
+HeadPositionX = 0x4   
+HeadPositionY = 0xC       
+HeadPositionZ = 0x8          
+
 
 AssaultRifle
 Ammo = 0x140
